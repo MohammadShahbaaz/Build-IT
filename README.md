@@ -1,6 +1,10 @@
 # Build-IT 
 A website which helps people build PCs by helping people get the correct compatible components
 
+## 🔗 Hosted Link
+
+[https://buld-it-new-1.onrender.com/](https://buld-it-new-1.onrender.com/)
+
 # How to run:
 Installing dependencies
 ```shell
